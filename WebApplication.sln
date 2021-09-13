@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication", "WebApplication\WebApplication.csproj", "{CBA376DB-512E-4DEB-B331-45045DB9B39B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{93B34DEC-442B-4F59-A657-AEB729AC4677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA376DB-512E-4DEB-B331-45045DB9B39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA376DB-512E-4DEB-B331-45045DB9B39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA376DB-512E-4DEB-B331-45045DB9B39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA376DB-512E-4DEB-B331-45045DB9B39B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B34DEC-442B-4F59-A657-AEB729AC4677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B34DEC-442B-4F59-A657-AEB729AC4677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B34DEC-442B-4F59-A657-AEB729AC4677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B34DEC-442B-4F59-A657-AEB729AC4677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655F698B-2E6F-4720-8A6B-B09D03CA4F74}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/wcodeschoole1
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebApplication\\WebApplication.csproj
+		SccProjectName1 = WebApplication
+		SccLocalPath1 = WebApplication
+		SccProjectUniqueName2 = API\\API.csproj
+		SccProjectName2 = API
+		SccLocalPath2 = API
+	EndGlobalSection
+EndGlobal

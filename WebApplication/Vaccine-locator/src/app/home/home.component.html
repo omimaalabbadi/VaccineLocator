@@ -1,0 +1,31 @@
+<div class="container" style="max-width: 756px">
+        
+    <div  class="my-location border text-center">
+        <h5> FIND A LOCATION</h5>
+        <div class="form-inline text-center" style="display: flex; align-items: center; justify-content: space-between;">
+            <input class="form-control" style="width: 70%;" type="text" placeholder="location" (ngModelChange)="doSearch()" [(ngModel)]="searchText" />
+            <select style="width: 20%;" class="custom-select mr-sm-2" [(ngModel)]="vType" (change)="ChangingValue($event)">
+                <option [value]="-1">Vaccine</option>
+                <option [value]="1">Sinopharm</option>
+                <option [value]="2">Pfizer / Bionic</option>
+            </select>
+        </div>
+    </div>
+    
+    <h5 class="text-center">Sites with available appointments ({{vaccines.length}})</h5>
+
+    <div style="padding:20px; background-color: white; margin-top:20px" *ngFor="let vacc of vaccines">
+        <h4>{{vacc.centerName}}</h4>
+        <div>
+            <div>Location: <span>{{vacc.location}}</span></div>
+            <div>Vaccine Name: <span>{{vacc.vaccines}}</span></div>
+            <div>Dose: <span>{{vacc.dosage}}</span></div>
+        </div>
+      
+        <div>
+            <button class="btn btn-primary btn-sm" routerLink="/addcenter">Schedule appointment</button>
+            <a class="btn btn-primary btn-sm" target="_blank" style="margin-left:10px" [attr.href]="'https://www.google.com/maps/dir/Amman/' + vacc.centerName">Directions</a>
+            <button type="button" class="btn btn-outline-warning ml-2 btn-sm" routerLink="/add-alerts">alert me</button>
+        </div>
+    </div>
+</div>
