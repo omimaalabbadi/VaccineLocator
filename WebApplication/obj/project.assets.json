@@ -6148,11 +6148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\my project\\Workspaces\\Workspace\\OmaimaApp\\WebApplication\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "C:\\WebApplication\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "C:\\my project\\Workspaces\\Workspace\\OmaimaApp\\WebApplication\\WebApplication\\WebApplication.csproj",
+      "projectPath": "C:\\WebApplication\\WebApplication\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\DELL-H\\.nuget\\packages\\",
-      "outputPath": "C:\\my project\\Workspaces\\Workspace\\OmaimaApp\\WebApplication\\WebApplication\\obj\\",
+      "outputPath": "C:\\WebApplication\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

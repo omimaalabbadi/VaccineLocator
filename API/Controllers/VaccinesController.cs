@@ -47,6 +47,7 @@ namespace API.Controllers
                 else if (vType == 2)
                     vaccines = vaccines.Where(w => w.Vaccines == "Pfizer / Bionic").ToList();
             }
+            if (searchText == null) searchText = "";
 
             if (!string.IsNullOrEmpty(searchText.Trim()))
             {

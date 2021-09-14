@@ -56,3 +56,32 @@ C:\my project\Workspaces\Workspace\OmaimaApp\WebApplication\API\obj\Debug\net5.0
 C:\my project\Workspaces\Workspace\OmaimaApp\WebApplication\API\obj\Debug\net5.0\ref\API.dll
 C:\my project\Workspaces\Workspace\OmaimaApp\WebApplication\API\obj\Debug\net5.0\API.pdb
 C:\my project\Workspaces\Workspace\OmaimaApp\WebApplication\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\WebApplication\API\bin\Debug\net5.0\appsettings.Development.json
+C:\WebApplication\API\bin\Debug\net5.0\appsettings.json
+C:\WebApplication\API\bin\Debug\net5.0\API.exe
+C:\WebApplication\API\bin\Debug\net5.0\API.deps.json
+C:\WebApplication\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\WebApplication\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\WebApplication\API\bin\Debug\net5.0\API.dll
+C:\WebApplication\API\bin\Debug\net5.0\ref\API.dll
+C:\WebApplication\API\bin\Debug\net5.0\API.pdb
+C:\WebApplication\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\WebApplication\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WebApplication\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WebApplication\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WebApplication\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\WebApplication\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApplication\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\WebApplication\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\WebApplication\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\WebApplication\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\WebApplication\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\WebApplication\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\WebApplication\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\WebApplication\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\WebApplication\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\WebApplication\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\WebApplication\API\obj\Debug\net5.0\API.dll
+C:\WebApplication\API\obj\Debug\net5.0\ref\API.dll
+C:\WebApplication\API\obj\Debug\net5.0\API.pdb
+C:\WebApplication\API\obj\Debug\net5.0\API.genruntimeconfig.cache
